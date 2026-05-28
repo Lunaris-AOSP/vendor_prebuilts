@@ -1,3 +1,4 @@
 # Prebuilts
 PRODUCT_PACKAGES += \
-    Chocola
+    Chocola \
+    Via
