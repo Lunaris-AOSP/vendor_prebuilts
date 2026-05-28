@@ -1,0 +1,11 @@
+android_app_import {
+	name: "Chocola",
+	apk: "Chocola/Chocola.apk",
+	dex_preopt: {
+		enabled: false,
+	},
+    overrides: ["Twelve"],
+    preprocessed: true,
+    presigned: true,
+	product_specific: true,
+}
